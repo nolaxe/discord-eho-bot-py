@@ -1,2 +1,2 @@
 heroku==0.1.4
-python-3.7.0
+python-3.9.5
