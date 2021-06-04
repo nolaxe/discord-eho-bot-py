@@ -49,7 +49,4 @@ async def on_ready():
   print('# эхо + картинки + цитаты #') 
   print('Запущен бот {0.user}'.format(client))    
 
-#client.run(os.getenv('TOKEN'))
-
-
-client.run(ODIzNDkyNjM1MTMzNzM5MDc4.YFhnRw.MCj4TksI44UBcdd9g4p0O7qA7yg)
+client.run(os.getenv('TOKEN'))
